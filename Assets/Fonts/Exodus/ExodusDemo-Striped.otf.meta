@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: f8676b397b95c1d42a3ba5de3e6c304d
+timeCreated: 1519942741
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Exodus Demo
+  fontNames:
+  - Exodus Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 06ec8420ed5e6374ba87a6223da9fa43, type: 3}
+  - {fileID: 12800000, guid: a186ec55d245bae4581128f91ab70cb1, type: 3}
+  - {fileID: 12800000, guid: d6066f58944b3674db77ac9e31e7056e, type: 3}
+  - {fileID: 12800000, guid: ccbd337cf4cac894aa3e6d8ab38b336f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
